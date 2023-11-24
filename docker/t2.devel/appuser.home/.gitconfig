@@ -1,0 +1,12 @@
+[user]
+    name = appuser at t2
+    email = appuser@gotovo.com
+[color]
+    ui = auto
+[push]
+    default = matching
+[log]
+    decorate = true
+[merge]
+    tool = vimdiff
+    conflictstyle = diff3
